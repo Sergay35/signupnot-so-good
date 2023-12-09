@@ -1,0 +1,19 @@
+input {
+    margin-bottom: 15px;
+    padding: 13px 16px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 66%;
+    font-size: 16px;
+    outline: none;
+}
+button{
+    font-size: 16px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 30px;
+    background-color: #263986;
+    text-align: center;
+    color: white;
+    cursor: point;
+}
